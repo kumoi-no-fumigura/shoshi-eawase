@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/shoshi-eawase",
  "yomi": "しょうしないしんのうえあわせ",
  "category": "歌合",
- "description": null,
+ "description": {
+  "kind": "物合（絵合）",
+  "era": "永承5年（1050）",
+  "author": "正子内親王",
+  "desc": "正子内親王のもとで、古今集・後撰集の歌を絵に描いて左右で競った絵合の記録。思い立った経緯から当日の宴まで、仮名で記す。"
+ },
  "editions": [
   {
    "pid": "1879502",
